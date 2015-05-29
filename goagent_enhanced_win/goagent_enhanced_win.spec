@@ -1,6 +1,6 @@
 # -*- mode: python -*-
-a = Analysis(['f:\\info git\\pythondev\\test\\goagent_enhanced\\goagent_iplist_enhanced\\goagent_enhanced_win.py'],
-             pathex=['E:\\Program Files\\python\\Lib\\PyInstaller-2.1\\goagent_enhanced_win'],
+a = Analysis(['F:\\info git\\pythondev\\test\\goagent_enhanced\\goagent_iplist_enhanced\\goagent_enhanced_win.py'],
+             pathex=['E:\\Program Files\\python\\Lib\\PyInstaller-2.1'],
              hiddenimports=[],
              hookspath=None,
              runtime_hooks=None)
