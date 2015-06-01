@@ -93,6 +93,6 @@ os.remove('out.txt')
 os.remove('out1.txt')
 os.remove('out2.txt')
 print "Update finished..."
-raw_input(unicode('按任意键启动goagent...','utf-8').encode('gbk'))
+#raw_input(unicode('按任意键启动goagent...','utf-8').encode('gbk'))
 os.system(r'"goagent.exe"')
 #os.system(r'"E:\Program Files\goagent-goagent-98eca96\local\goagent.exe"')

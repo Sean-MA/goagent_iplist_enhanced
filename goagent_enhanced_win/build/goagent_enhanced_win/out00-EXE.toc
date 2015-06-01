@@ -1,4 +1,4 @@
-('E:\\Program Files\\python\\Lib\\PyInstaller-2.1\\dist\\goagent_enhanced_win.exe',
+('E:\\Program Files\\python\\Lib\\PyInstaller-2.1\\goagent_enhanced_win\\dist\\goagent_enhanced_win.exe',
  True,
  False,
  None,
@@ -6,4 +6,4 @@
  [],
  None,
  False,
- 1432891115L)
+ 1433137811L)
