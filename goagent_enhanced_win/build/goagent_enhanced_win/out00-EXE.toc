@@ -1,9 +1,0 @@
-('E:\\Program Files\\python\\Lib\\PyInstaller-2.1\\goagent_enhanced_win\\dist\\goagent_enhanced_win.exe',
- True,
- False,
- None,
- None,
- [],
- None,
- False,
- 1433137811L)
